@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "790398071640",
+    "firebase_url": "https://chuchforyou-9188b.firebaseio.com",
+    "project_id": "chuchforyou-9188b",
+    "storage_bucket": "chuchforyou-9188b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790398071640:android:63d2f502c9c74d1b",
+        "android_client_info": {
+          "package_name": "chuch.chuchforyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790398071640-di3297uulj56ic3e2aef40kmibn36j71.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "chuch.chuchforyou",
+            "certificate_hash": "368269a1b3244d1a0d68d92fbc609f8d4e78238f"
+          }
+        },
+        {
+          "client_id": "790398071640-517iv34jft4m37gmc8aalhftamn1fkq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs0d6OylrgH-7bdZq_oB85VorR7fFUEFA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790398071640-517iv34jft4m37gmc8aalhftamn1fkq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

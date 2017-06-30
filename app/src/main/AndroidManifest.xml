@@ -24,8 +24,9 @@
             </intent-filter>
         </activity>
 
+
         <service
-            android:name=".GetHTTPService"
+            android:name=".Services.GetChuchService"
             android:exported="false"
             android:label="Intent"
             android:enabled="true"/>
